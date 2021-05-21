@@ -5,9 +5,9 @@ const fs = require("fs");
 require("./util/eventLoader")(client);
 
 client.ayarlar = { 
-"token": "NzY3MjQ2ODc1MzkyMjEzMDQy.X4vIVQ.3SMfRzgU8H8xqyhFLcypeim6GiU", // token
+"token": "ODI1Njk5NjA3NzYwOTk0MzE1.YGBurw.gmDo6Z8FgiezhfoRCha1H2kyIt0", // token
 "prefix": "!", // prefix
-"sahip": "",// sahip
+"sahip": "742756848125607978",// sahip
 }
 
 
